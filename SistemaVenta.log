@@ -1,0 +1,10 @@
+int main(){
+	int total = 100;
+	int vuelto = 0;
+	int pago = 50;
+	cout<<"Costo total del pedido";
+	cout<<"El costo es: "+ "/S." + total;
+	cout<<"El cliente pagara con: "+ "S/." + pago;
+	cout<<"El vuelto es: "+ "S/." + vuelto;
+_getch();
+}
